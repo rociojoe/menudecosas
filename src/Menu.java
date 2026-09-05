@@ -184,7 +184,7 @@ class Menu {
             Factura factura = new Factura(orden, metodoPago);
             imprimir(factura);
         }
-        System.out.println("Gracias por su visita al Kiosco Puerto Barrios.");
+        System.out.println("bye.");
     }
 
     public static void main(String[] args) {
